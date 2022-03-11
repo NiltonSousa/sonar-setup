@@ -1,0 +1,26 @@
+{
+  "name": "sonar-setup",
+  "version": "1.0.0",
+  "description": "This project is a simple example how to implements a sonar in your project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiltonSousa/sonar-setup.git"
+  },
+  "author": "Nilton Sousa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NiltonSousa/sonar-setup/issues"
+  },
+  "homepage": "https://github.com/NiltonSousa/sonar-setup#readme",
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.16.7",
+    "@types/jest": "^27.4.1",
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.3",
+    "typescript": "^4.6.2"
+  }
+}
